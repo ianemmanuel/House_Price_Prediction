@@ -1,0 +1,1 @@
+This project developed a machine learning model that can predict real estate property prices based on different variables such as property location, BHK and squarefoot.The data used to train and test this model is from in Bengaluru, India.
